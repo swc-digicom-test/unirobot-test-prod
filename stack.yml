@@ -8,4 +8,3 @@ functions:
     lang: node12
     handler: ./hello-function
     image: hello-function:latest
-
